@@ -1,3 +1,16 @@
+## ⚠️ Disclaimer
+
+This repository contains my personal notes and methodology for completing the **SANS NetWars N2C CTF**.  
+It is intended **only for educational and defensive cybersecurity learning**.
+
+- I do **not** claim ownership of the lab environment or challenge material.  
+- This write-up **does not reveal proprietary solutions, answer keys, or internal SANS content**.  
+- All notes provided here describe **my own actions, commands, and reasoning** during the challenge.
+
+If you are participating in the same event, please respect SANS rules and avoid using this repository as a shortcut.  
+Always follow the guidelines of your CTF provider and use this material **responsibly and ethically**.
+
+
 # 🛡️ SANS NetWars **N2C CTF** — Windows + Elastic Forensics Write-Up  
 *A structured walkthrough of my methodology, commands, and analysis steps across the Windows host, Linux host, and Elastic Stack.*
 
