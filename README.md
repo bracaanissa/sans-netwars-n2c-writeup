@@ -270,5 +270,5 @@ Non-flag, educational walkthroughs **are allowed** and are commonly shared on Gi
 ---
 
 # ✔️ End of Write-Up
-Feel free to fork, improve formatting, or add screenshots!
+
 
